@@ -1,0 +1,11 @@
+"./adcInterface.obj"
+"./clcksystem.obj"
+"./led.obj"
+"./main.obj"
+"./scheduler.obj"
+"./timer.obj"
+"./uartInterface.obj"
+"../lnk_msp430fr6989.cmd"
+-llibmpu_init.a
+-llibmath.a
+-llibc.a
